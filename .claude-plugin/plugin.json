@@ -1,0 +1,19 @@
+{
+  "name": "clear-thinking",
+  "version": "1.0.0",
+  "description": "A deliberate decision-making skill for coding agents — separates facts from assumptions, hunts blind spots with a pre-mortem, applies fitting thinking lenses, and returns a straight recommendation in non-slop prose. Manual-only by design.",
+  "author": {
+    "name": "Justine Ladlad",
+    "url": "https://github.com/kopon1"
+  },
+  "homepage": "https://github.com/kopon1/clear-thinking",
+  "repository": "https://github.com/kopon1/clear-thinking",
+  "license": "MIT",
+  "keywords": [
+    "decision-making",
+    "reasoning",
+    "thinking",
+    "clear-thinking",
+    "skill"
+  ]
+}
