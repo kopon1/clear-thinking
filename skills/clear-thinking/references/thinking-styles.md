@@ -62,6 +62,14 @@ Sort the decision by whether it can be cheaply undone.
 - **Prompt:** "Is this a one-way door (expensive/impossible to reverse) or a two-way door (walk it back cheaply)? Two-way doors deserve speed and less agonizing; one-way doors deserve the full process."
 - **Catches:** over-deliberating on reversible calls, and under-deliberating on irreversible ones.
 
+## Pareto (the vital few)
+
+Most of the payoff comes from a small share of the inputs. Find that share, do it, and consciously name what you're *not* doing.
+
+- **Use when:** the work could sprawl — a long to-do list, "improve everything," many possible fixes competing for limited time.
+- **Prompt:** "Of everything I could do here, which few moves carry most of the result? Name them, then say out loud what I'm deliberately skipping and why that's fine."
+- **Catches:** effort spread thin across low-impact work. The real output isn't the list of what to do — it's the shorter list, plus permission to ignore the rest.
+
 ---
 
 ## Choosing lenses by problem type
@@ -74,3 +82,4 @@ Sort the decision by whether it can be cheaply undone.
 | A clean, obvious-looking win | Second-order, pre-mortem |
 | Choosing under real uncertainty | Expected value, base rates |
 | A fast, low-stakes call | Reversibility (and little else — don't over-think a two-way door) |
+| "Improve everything" / a sprawling to-do list | Pareto, first-principles |
